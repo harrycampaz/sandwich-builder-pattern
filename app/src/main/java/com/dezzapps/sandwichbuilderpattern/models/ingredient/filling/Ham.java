@@ -1,4 +1,4 @@
-package com.dezzapps.sandwichbuilderpattern.models;
+package com.dezzapps.sandwichbuilderpattern.models.ingredient.filling;
 
 public class Ham extends Filling {
     @Override

@@ -9,14 +9,13 @@ import android.widget.RadioButton;
 import android.widget.Switch;
 import android.widget.TextView;
 
-import com.dezzapps.sandwichbuilderpattern.models.Bagel;
-import com.dezzapps.sandwichbuilderpattern.models.Baguette;
-import com.dezzapps.sandwichbuilderpattern.models.Cheese;
-import com.dezzapps.sandwichbuilderpattern.models.Ham;
-import com.dezzapps.sandwichbuilderpattern.models.Salt;
+import com.dezzapps.sandwichbuilderpattern.models.ingredient.bread.Bagel;
+import com.dezzapps.sandwichbuilderpattern.models.ingredient.bread.Baguette;
+import com.dezzapps.sandwichbuilderpattern.models.ingredient.filling.Cheese;
+import com.dezzapps.sandwichbuilderpattern.models.ingredient.filling.Ham;
+import com.dezzapps.sandwichbuilderpattern.models.ingredient.Salt;
 import com.dezzapps.sandwichbuilderpattern.models.Sandwich;
 import com.dezzapps.sandwichbuilderpattern.models.SandwichBuilder;
-import com.dezzapps.sandwichbuilderpattern.models.Toasted;
 
 public class MainActivity extends AppCompatActivity {
 

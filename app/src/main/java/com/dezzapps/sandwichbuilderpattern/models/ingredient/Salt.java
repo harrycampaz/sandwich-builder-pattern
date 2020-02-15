@@ -1,6 +1,4 @@
-package com.dezzapps.sandwichbuilderpattern.models;
-
-import com.dezzapps.sandwichbuilderpattern.Ingredient;
+package com.dezzapps.sandwichbuilderpattern.models.ingredient;
 
 public class Salt implements Ingredient {
     @Override

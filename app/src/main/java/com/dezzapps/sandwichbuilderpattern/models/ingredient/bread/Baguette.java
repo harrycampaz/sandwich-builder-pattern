@@ -1,4 +1,4 @@
-package com.dezzapps.sandwichbuilderpattern.models;
+package com.dezzapps.sandwichbuilderpattern.models.ingredient.bread;
 
 public class Baguette extends Bread {
     @Override

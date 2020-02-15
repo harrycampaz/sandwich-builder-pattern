@@ -1,6 +1,6 @@
 package com.dezzapps.sandwichbuilderpattern.models;
 
-import com.dezzapps.sandwichbuilderpattern.Ingredient;
+import com.dezzapps.sandwichbuilderpattern.models.ingredient.Ingredient;
 
 public class SandwichBuilder {
 
